@@ -2,7 +2,7 @@
 
 LLD template for nginx plus.
 
-[Alt text](https://github.com/hermanekt/zabbix_nginx_plus/raw/main/img/0.jpg)
+![Alt text](https://github.com/hermanekt/zabbix_nginx_plus/raw/main/img/0.jpg)
 
 Please check your api version in template, is macro {$NGINXPLUS_API_VER} in defaults is used version 6
 
