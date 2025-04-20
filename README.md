@@ -1,5 +1,13 @@
 # Zabbix NGINX Plus
 
+> ## ⚠️ Repository archived – switch to the **official Zabbix NGINX Plus template**
+> 
+> Development of this project has ended.  
+> Use the officially supported Zabbix integration instead:
+> 
+> **https://www.zabbix.com/integrations/nginx#nginx_plus_http**
+
+
 LLD template for nginx plus.
 
 ![Alt text](https://github.com/hermanekt/zabbix_nginx_plus/raw/main/img/0.jpg)
